@@ -1,0 +1,7 @@
+topic=10
+word=60
+doc=4539
+iteration=500
+alpha=5
+beta=0.01
+data=user_data2.dat
